@@ -1059,7 +1059,7 @@ section.events .subscribe form input[type=submit]:hover {
     }
 }
 section.events .dots {
-    background-image: url(../imgs/dots.png);
+    background-image: url(../imgs/dots.webp);
     height: 186px;
     width: 204px;
     background-repeat: no-repeat;
@@ -1205,7 +1205,7 @@ section.pricing .box a:hover {
     color: white;
 }
 section.pricing .dots {
-    background-image: url(../imgs/dots.png);
+    background-image: url(../imgs/dots.webp);
     height: 186px;
     width: 204px;
     background-repeat: no-repeat;
@@ -1308,7 +1308,7 @@ section.statistics {
     position: relative;
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url("../imgs/stats.jpg");
+    background-image: url(../imgs/stats.webp);
     background-size: cover;
     min-height: 500px;
     height: 700px;
@@ -1413,7 +1413,7 @@ section.discount {
     flex-wrap: wrap;
 }
 section.discount .image {
-    background-image: url(../imgs/discount-background1.jpg);
+    background-image: url(../imgs/discount-background1.webp);
     background-size: cover;
     color: white;
     flex-basis: 50%;
@@ -1739,10 +1739,10 @@ section.discount .form h2 {
 @keyframes changing-background {
     0%,
     100% {
-        background-image: url(../imgs/discount-background1.jpg);
+        background-image: url(../imgs/discount-background1.webp);
     }
     50% {
-        background-image: url(../imgs/discount-background2.jpg);
+        background-image: url(../imgs/discount-background2.webp);
     }
 }
 /* End Animations */
