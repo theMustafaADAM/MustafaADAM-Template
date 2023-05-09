@@ -214,6 +214,8 @@ nav .mega-menu {
         border-top: 1px solid #e9e6e6;
     }    
 }
+/* #mega {display:none} */
+.go-down:target {display:flex}
 nav .mega-menu .image img {
     max-width: 100%;
     transform: translateY(15%);
